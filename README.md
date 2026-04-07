@@ -66,7 +66,6 @@ Non-parametric tests are commonly used in **actuarial, medical, and financial da
 - Data visualization using R / Python  
 - Clear documentation and reporting  
 
----
 
 ## 📁 Repository Structure
 
@@ -79,7 +78,7 @@ Non-parametric tests are commonly used in **actuarial, medical, and financial da
 └── README.md
 
 
----
+
 
 ## 📎 Author
 **Hillary Mike**  
